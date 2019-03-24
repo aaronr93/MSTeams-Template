@@ -1,0 +1,38 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.3/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.3",
+    "version": "1.0.0",
+    "id": "",
+    "packageName": "com.example.package",
+    "developer": {
+        "name": "Aaron Rosenberger",
+        "websiteUrl": "https://confluence.silverchair.com/spaces/viewspace.action?key=~arosenberger",
+        "privacyUrl": "https://confluence.silverchair.com/spaces/viewspace.action?key=~arosenberger",
+        "termsOfUseUrl": "https://confluence.silverchair.com/spaces/viewspace.action?key=~arosenberger"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "Name",
+        "full": "Full Name"
+    },
+    "description": {
+        "short": "description",
+        "full": "full description"
+    },
+    "accentColor": "#8B8B8B",
+    "composeExtensions": [
+        {
+            "botId": "",
+            "canUpdateConfiguration": true,
+            "commands": [
+            ]
+        }
+    ],
+    "permissions": [
+    ],
+    "validDomains": [
+    ]
+}

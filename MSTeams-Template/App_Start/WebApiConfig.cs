@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace MSTeams_Template
+namespace MSTeams.Template
 {
     public static class WebApiConfig
     {
